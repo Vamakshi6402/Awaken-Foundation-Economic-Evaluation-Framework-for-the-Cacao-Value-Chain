@@ -15,7 +15,7 @@ The project combines data-driven evaluation with practical development economics
 ## 📘 Contents
 
 - [📄 Full White Paper (PDF)](https://github.com/Vamakshi6402/Awaken-Foundation-Economic-Evaluation-Framework-for-the-Cacao-Value-Chain/blob/main/docs/Awaken%20Foundation%20%E2%80%93%20Cacao%20Value-Chain%20Project%20(Vamakshi%20Chaturvedi%2C%202025).pdf)
-- [📄 One-Page Case Study (PDF)](https://github.com/Vamakshi6402/Awaken-Foundation-Economic-Evaluation-Framework-for-the-Cacao-Value-Chain/blob/main/summary/CaseStudy_Awaken_Economics.pdf)
+- [📄 Case Study (PDF)](https://github.com/Vamakshi6402/Awaken-Foundation-Economic-Evaluation-Framework-for-the-Cacao-Value-Chain/blob/main/summary/CaseStudy_Awaken_Economics.pdf)
 
 KPI framework, unit economics, and sensitivity analysis documentation.
 
